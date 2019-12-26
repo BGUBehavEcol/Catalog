@@ -1,0 +1,3 @@
+Script_name	Original_author	last_editor	written_for	project	folder_names	wide.to.long	check.normality	permuted.repeated.measures	Anova.just.4.means	histogram.and.more	histogram and more
+Indicator Species Repeated doriae.Rmd	Amos	Amos	Oz	Avrona	Avrona/Repeated of indicator spps	1	1	1	1	0	0
+Quick histogram.Rmd	Amos	Amos	Oz	Graphics	Graphics	0	1	0	0	0	0
